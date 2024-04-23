@@ -23,8 +23,8 @@ If Java is not installed, follow the [installation instructions](https://java.co
 
 ```
 First clone down the repo:
-git clone "REPLACE"
-cd "PROJECT NAME"
+git clone https://github.com/qpedrick/IndyFieldGuide.git
+cd IndyFieldGuide
 ```
 
 ### How to Use the Makefile:
@@ -125,12 +125,11 @@ Thank you for your interest in contributing to the Indy Field Guide! We welcome 
 
 2. **Clone the Repository**
    - After forking, clone the repository to your local machine to start making changes. Use the command:
-     git clone https://github.com/yourusername/projectname.git
-   - Replace `yourusername/projectname` with the forked repository path.
+     git clone https://github.com/qpedrick/IndyFieldGuide.git
 
 3. **Create a New Branch**
    - Navigate into the project directory:
-     cd projectname
+     cd IndyFieldGuide
    - Create a new branch for your feature or fix:
      git checkout -b feature/YourFeatureName
 
