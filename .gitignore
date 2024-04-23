@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+
+# Target directory
+/target
+
+# Serialization files
+*.ser
+
+# Data directory (redundant because of above but added for clarity)
+/resources/data
