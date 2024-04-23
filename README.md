@@ -1,6 +1,7 @@
 # Indy Field Guide
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)](https://java.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is a Java based Command Line Interface (CLI) application that takes design inspiration from Model View Controller architecture. The general concept is a field guide for the Greater Indianapolis region. Users can create an account or log in to explore various locations and species. When exploring a location, the user receives a quiz and if answered correctly, this species is added to their field guide.
 
