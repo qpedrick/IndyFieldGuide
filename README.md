@@ -125,22 +125,31 @@ Thank you for your interest in contributing to the Indy Field Guide! We welcome 
 
 2. **Clone the Repository**
    - After forking, clone the repository to your local machine to start making changes. Use the command:
-     git clone https://github.com/qpedrick/IndyFieldGuide.git
-
+    ```
+    git clone https://github.com/qpedrick/IndyFieldGuide.git
+    ```
 3. **Create a New Branch**
    - Navigate into the project directory:
-     cd IndyFieldGuide
+    ```
+    cd IndyFieldGuide
+    ```
    - Create a new branch for your feature or fix:
-     git checkout -b feature/YourFeatureName
+    ```
+    git checkout -b feature/YourFeatureName
+    ```
 
 4. **Make Changes and Commit**
    - Make the necessary changes or additions to the project.
    - Commit your changes with a clear and descriptive message:
-     git commit -am 'Add a brief description of your changes'
+    ```
+    git commit -am 'Add a brief description of your changes'
+    ```
 
 5. **Push Changes to GitHub**
    - Push your changes to your forked repository:
-     git push origin feature/YourFeatureName
+    ```
+    git push origin feature/YourFeatureName
+    ```
 
 6. **Submit a Pull Request**
    - Go to the original repository on GitHub.
